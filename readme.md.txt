@@ -9,3 +9,6 @@ okay so this is master
 
 po shkruaj dicka ketu eshte ne new_branch
 >>>>>>> new_branch
+
+
+change sth
