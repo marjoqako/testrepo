@@ -12,3 +12,8 @@ po shkruaj dicka ketu eshte ne new_branch
 
 
 change sth
+
+
+hello
+
+hello
